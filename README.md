@@ -5,5 +5,8 @@
 
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=rubix-coder)](https://github.com/rubix-coder/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubix-coder&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubix-coder&langs_count=8)](https://github.com/rubix-coder/github-readme-stats)
+
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubix-coder&layout=compact) -->
 
