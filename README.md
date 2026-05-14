@@ -1,12 +1,2 @@
-### Hi there! I am Jesal 👋
-### 🖱️ https://rubix-coder.github.io/
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubix-coder&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22rubix-coder" /> </p>
-
-<!-- [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=rubix-coder)](https://github.com/rubix-coder/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubix-coder&langs_count=8)](https://github.com/rubix-coder/github-readme-stats)
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubix-coder&layout=compact) -->
-
+Hey, I'm Jesal — a Senior QA Engineer who stress-tests AI before it meets the real world. I work across Object Detection, NLP, and LLM evaluation, making sure models don't just look good on paper. When I'm not writing test frameworks, I'm exploring ML algorithms just to understand what I'm actually breaking.
+It positions you as someone technical and self-aware — not just a list of keywords. The current one reads like a first draft; this one has personality.
