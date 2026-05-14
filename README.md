@@ -1,2 +1,6 @@
-Hey, I'm Jesal — a Senior QA Engineer who stress-tests AI before it meets the real world. I work across Object Detection, NLP, and LLM evaluation, making sure models don't just look good on paper. When I'm not writing test frameworks, I'm exploring ML algorithms just to understand what I'm actually breaking.
-It positions you as someone technical and self-aware — not just a list of keywords. The current one reads like a first draft; this one has personality.
+Hey, I'm Jesal 👋 — Senior QA Engineer who stress-tests AI systems for a living.
+
+My stack spans PyTorch, TensorFlow, ONNXRT, OpenCV, LangChain — basically anything that runs a model, I've probably tried to break it. From 70B LLMs to real-time CV pipelines, if it ships, it passes my gate first. 🔍
+
+Hardware roots, software brain — started with PMSM motor controllers and EV systems, ended up profiling transformers. The throughline? Make it reliable or don't ship it. ⚡
+Currently overfitting to test automation. Occasionally gardening to reset the weights. 🌱
